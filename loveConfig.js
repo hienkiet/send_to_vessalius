@@ -1,0 +1,9 @@
+const nameGirl = 'To:Vu Duong';
+const giftUrl = 'https://www.facebook.com/groups/165460116804572';
+const eventName = 'Happy 8/3 !!!';
+const titleCard = 'For Vessalius';
+const contentCard = '</br> Hey Duong, cảm ơn cậu ! </br> Mình rất vui vì được trở thành bạn của cậu và mình hy vọng sau này vẫn thế !  </br> Mọi khoảnh khắc hạnh phúc sẽ không được thực sự trọn vẹn nếu như thiếu đi cậu! Vậy nên, chúc cậu có ngày 8/3 và 320 ngày còn lại trong năm hạnh phúc và vui vẻ . </br></br> From 07.29 with luv';
+const giftImage = 'vuduong.jpg';
+const giftBg = 'valentines.jpg'
+const base64 = '';
+const giftImageBase64 = "data:image/jpg;base64, " + base64;
